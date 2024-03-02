@@ -11,6 +11,7 @@ You are free to use any public code for your campaigns, on the condition that yo
 Repository index:
 
 - [Spoke](https://github.com/campaigncode/Spoke) - A fork of the main Spoke repository that I maintain and add to in my free time.
+- [Spoke-Docker](https://hub.docker.com/r/rar1871/spoke) - A containerised version of Spoke that is ready to run anywhere!
 - [Caching CORS Proxy](https://github.com/campaigncode/proxy) - A proxy that caches requests for different time periods, and handles CORS negotiation to eliminate CORS errors.
 - [Map Server V3](https://github.com/campaigncode/map-server-v3) - A map server that serves raster tiles with custom styling for maps. If you are looking for V1 or V2, contact me.
 - [Data Feeders](https://github.com/campaigncode/data-feed) - A ragtag collection of scripts for handling OSM data. Updated occasionally.
