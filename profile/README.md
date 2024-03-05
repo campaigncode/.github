@@ -18,7 +18,7 @@ Repository index:
 
 Additional links:
 
-- [Request Sniper](https://sniper-front-production.up.railway.app/) - Analyse any network request! View whether headers, parameters, and body data are being sent across correctly.
+- [Request Sniper](https://sniper.campaigncode.org/) - Analyse any network request! View whether headers, parameters, and body data are being sent across correctly.
 - [Beaver](https://beaver-logs.com/) - Coming soon! Stream logs and data to the cloud effortlessly. Organise everything into different buckets directly in your code, and let us handle the rest!
 - [My Blog](https://medium.com/@rar1871) - My blog of vaious server technologies and use cases.
 - [My personal GitHub](https://github.com/RahulR100?tab=repositories) - For more of my personal projects, visit here.
