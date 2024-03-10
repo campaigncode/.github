@@ -1,4 +1,4 @@
-# Campaign Code - Rahul Rao
+# CampaignCode - Rahul Rao
 
 ## Code that wins
 
