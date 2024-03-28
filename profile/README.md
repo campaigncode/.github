@@ -1,6 +1,6 @@
 # CampaignCode - Rahul Rao
 
-## Code that wins
+## Tools that uplift. Code that wins
 
 Welcome to my repository of tools that I have created during my time working on campaigns. They were most certainly useful to me and I hope they are to you as well.
 
