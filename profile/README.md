@@ -2,7 +2,7 @@
 
 ## Tools that Uplift. Code that Wins.
 
-CampaignCode was created in 2023 by dedicated organizers as a place to store and collaborate on tools built during campaigns. It has since grown into a large collection of tools, with numerous repositories and collaborators working tirelessly in their free time for the benefit of democratic campaigns and organizations.
+CampaignCode was created in 2023 by dedicated organizers as a place to store and collaborate on tools built during campaigns. It has since grown into a large collection of tools, with numerous repositories and collaborators working tirelessly in their free time for the benefit of democratic values and human rights.
 
 You may feel free to reference all public repositories, some of which are highlighted below! All repositories should have README files to help you along the way. If you wish to make any changes, feel free to open a pull request!
 
