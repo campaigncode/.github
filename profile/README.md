@@ -2,11 +2,11 @@
 
 ## Tools that Uplift. Code that Wins.
 
-CampaignCode was created in 2023 by dedicated organizers as a place to store and collaborate on tools built during campaigns. It has since grown into a large index of projects, with numerous organizations, repositories, and collaborators working tirelessly in their free time for the benefit of democratic values and human rights.
+CampaignCode was created in 2023 by dedicated organizers as a place to store and collaborate on tools built during campaigns. It has since grown into a large index of projects, with numerous organizations, repositories, and collaborators working tirelessly in their free time.
 
 You may feel free to reference all public repositories, some of which are highlighted below! All repositories should have README files to help you along the way. If you wish to make any changes, feel free to open a pull request!
 
-Any democratic campaign may use any publicly available code in these repositories, on the condition that a public attribution is provided to the repository here. There may be other data restrictions on individual repositories so please be mindful. Note that there are many more repositories that are private. To inquire about them, [send us an email!](mailto:admin@campaigncode.org)
+You  may use any available code in these repositories, on the condition that a public attribution is provided to the repository here. There may be other data restrictions on individual repositories so please be mindful. Note that there are many more repositories that are private. To inquire about them, [send us an email!](mailto:admin@campaigncode.org)
 
 Repository index:
 
